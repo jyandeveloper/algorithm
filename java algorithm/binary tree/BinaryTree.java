@@ -41,7 +41,7 @@ public class BinaryTree {
     }
 
     // 中序遍历
-    public void InOrderTravel(Node node) {
+    public void inOrderTravel(Node node) {
         if (node == null) {
             return;
         }
