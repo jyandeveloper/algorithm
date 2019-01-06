@@ -32,6 +32,10 @@ public class InsertSort {
         System.out.println(Arrays.toString(arr));
     }
 
+    /**
+    * 希尔排序
+    * @param arr
+    */
     public static void shellSort(int[] arr) {
         System.out.println(Arrays.toString(arr));
 
